@@ -11,5 +11,5 @@ The required dependencies are found in the `requirements.txt` file. To install t
 
 ## Additional information
 
-More details are available in SERRANO Deliverables D5.2 (M15) and D5.4 (M31) in the project web site.
+More details are available in SERRANO Deliverables D5.2 (M15) and D5.4 (M31) in the [SERRANO project](https://ict-serrano.eu/deliverables/) web site.
 

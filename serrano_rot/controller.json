@@ -1,0 +1,21 @@
+{
+   "log_level": "INFO",
+   "rest_interface": {
+       "address": "",
+       "port": 10020
+    },
+    "sqlite_db": "",
+    "engines": {
+        "heartbeat": 60,
+        "heartbeat_limit": 120
+    },
+    "telemetry": {
+       "cth_service": ""
+    },
+    "databroker_interface": {
+       "address": "",
+       "username": "",
+       "password": "",
+       "virtual_host": ""
+    }
+}

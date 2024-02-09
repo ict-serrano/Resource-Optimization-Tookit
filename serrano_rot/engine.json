@@ -1,0 +1,11 @@
+{
+   "log_level": "INFO",
+    "heartbeat": 120,
+    "engine_uuid": "",
+    "databroker_interface": {
+       "address": "",
+       "username": "",
+       "password": "",
+       "virtual_host": ""
+    }
+}

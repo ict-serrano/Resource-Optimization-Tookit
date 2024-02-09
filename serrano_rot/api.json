@@ -1,0 +1,15 @@
+{
+   "api_client": {
+        "server_address": "",
+        "server_port": 10020,
+	"username": "",
+	"password": "",
+	"client_uuid": ""
+    },
+    "databroker_interface": {
+       "address": "",
+       "username": "",
+       "password": "",
+       "virtual_host": ""
+    }
+}

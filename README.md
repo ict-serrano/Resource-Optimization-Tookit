@@ -1,12 +1,15 @@
 # Resource-Optimization-Tookit
 SERRANO - Resource Optimization Toolkit
 
+## Description
+
+Resource Optimization Toolkit (ROT) is framework written in Python that faciliates the execution of various resource orchestration algorithms. It was impemented in the context of SERRANO Horizon 2020 project.
+
+The design includes one ROT controller and multiple Execution Engines, the actual workers. The controller includes the Access Interface and Dispatcher components, while each worker comprises the Execution Engine and the library of the decision algorithms.
+
+
 ## Requirements
 The required dependencies are found in the `requirements.txt` file. To install them, run `pip install -r requirements.txt` from the project folder.
-
-## ROT architecture
-
-## ROT API Example
 
 
 ## Additional information
